@@ -1,17 +1,13 @@
-Welcome to the onichan's plugins!
+Welcome to the onichan!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+I'm **onichan**. I'm a developer. I'm interested in making Minecraft servers and plugins, making Discord bots and Python language. In my free times, I'm creating Minecraft servers and deleting them. This is my hobby.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+You can contact me by going to the :doc:`contact` section.
 
 .. note::
 
-   This project is under active development.
+   I'm not professional at coding. I do it as hobby.
 
 Contents
 --------
