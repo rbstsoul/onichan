@@ -1,4 +1,4 @@
-Welcome to the **onichan's plugins**!
+Welcome to the onichan's plugins!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
